@@ -86,3 +86,5 @@ def drawSpecial(t,size,repeat):
 drawSpecial(Will,100,10)
 
 turtle.getscreen()._root.mainloop()
+
+#aku nambahi kata iki
